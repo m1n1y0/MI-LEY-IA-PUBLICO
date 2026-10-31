@@ -20,7 +20,7 @@ El **prompt escueto queda excluido**: fue una prueba puntual, no es ley, compone
 - `experimentos/`: DF-IMIA, protocolos, hipótesis, pruebas, resultados y errores.
 - `versiones/`: versiones evaluadas y aprobadas.
 - `main`: referencia estable.
-- `experimentos`: rama de trabajo experimental (su existencia debe comprobarse en GitHub).
+- `experimentos`: rama de trabajo experimental, creada el 31-10-2026 desde `main`.
 
 ## Flujo de trabajo
 
@@ -41,7 +41,7 @@ El **prompt escueto queda excluido**: fue una prueba puntual, no es ley, compone
 - El prompt escueto está excluido.
 - No hay una Ley 3 activa: el número 3 corresponde a DF-IMIA.
 - Los SHA-256 de los originales legales siguen pendientes porque los textos fuente no están archivados.
-- La protección técnica de ramas debe comprobarse en la configuración real de GitHub; documentarla no la activa.
+- La rama `experimentos` existe. La protección técnica de ramas debe comprobarse en la configuración real de GitHub; documentarla no la activa.
 
 ## Principio rector
 
