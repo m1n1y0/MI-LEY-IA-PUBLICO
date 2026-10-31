@@ -4,7 +4,7 @@
 
 | Fecha | ID | Decisión | Estado | Evidencia |
 |---|---|---|---|---|
-| 2026-10-27 | DEC-001 | MI LEY y Ley 2 se mantienen como dos bloques legales separados. El prompt escueto fue solo una prueba. | Confirmada por el propietario | Historial de conversación |
+| 2026-10-27 | DEC-001 | MI LEY y Ley 2 se mantienen como dos bloques legales separados. | Confirmada por el propietario | Historial de conversación |
 | 2026-10-27 | DEC-002 | DF-IMIA se conserva como método/diagrama operativo, no como ley adicional. | Confirmada por el propietario | Historial de conversación |
 | 2026-10-31 | DEC-003 | Numeración: 1 = MI LEY; 2 = LEY DE EFICACIA, RIGOR Y RESOLUCIÓN; 3 = DF-IMIA. | Confirmada por el propietario | Confirmación expresa en conversación |
 | 2026-10-31 | DEC-004 | El propietario comunica que el código numérico de aplicación quedó confirmado. | Confirmación comunicada; literal pendiente de transcripción | Conversación del 31-10-2026 |
@@ -23,7 +23,3 @@ Las propuestas 1321 y 3231 se conservan en `SECUENCIAS-1321-3231.md` como antece
 ## Nota metodológica
 
 No se anotarán como resultados las simulaciones, razonamientos o expectativas. Cada prueba debe indicar si fue simulada, sintética o ejecutada con una tarea real; también debe conservar la entrada, condiciones, resultado y limitaciones.
-
-## Exclusiones
-
-El prompt escueto no forma parte de la arquitectura ni del registro de componentes vigentes. No se le asigna número.
