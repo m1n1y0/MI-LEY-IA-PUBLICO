@@ -1,33 +1,30 @@
-# Secuencias 1321 y 3231
+# Antecedentes de secuencias 1321 y 3231
 
-**Estado:** hipótesis de arquitectura en documentación; no validada.  
-**Referencia:** conversación del propietario del proyecto.  
-**Relación con DF-IMIA:** el diagrama debe intervenir en varios puntos de las secuencias para ejecutar y comprobar fases del proceso.
+**Estado:** registro histórico de propuestas anteriores; no asumir que alguna sea el código vigente.
 
-## Qué queda establecido
+El propietario comunicó el 31-10-2026 que el código numérico de aplicación había sido confirmado. Este archivo conserva referencias anteriores a 1321 y 3231, pero no hay aquí una transcripción literal que permita identificar cuál, si alguno, corresponde a la confirmación actual. No se debe adivinar ni sustituir el código confirmado por una de estas propuestas.
 
-- Las secuencias **1321** y **3231** representan ordenaciones distintas de las leyes y/o de sus repeticiones.
-- No son equivalentes por el mero hecho de contener los mismos dígitos.
-- DF-IMIA debe actuar en varios puntos de la secuencia, no quedar como un añadido decorativo al final.
-- La función concreta de cada posición debe definirse a partir de los textos íntegros de las leyes.
+## Arquitectura numerada confirmada
 
-## Qué no se debe dar por demostrado
+1. MI LEY — primera ley.
+2. LEY DE EFICACIA, RIGOR Y RESOLUCIÓN — segunda ley.
+3. DF-IMIA — tercer componente operativo; no es una tercera ley.
 
-- No está validado que una secuencia sea superior a la otra.
-- No se asigna aquí un significado detallado a cada cifra o posición sin cotejar los originales.
-- No se afirma que las secuencias produzcan mejoras medibles.
-- No se deben reconstruir las leyes a partir de recuerdos, resúmenes o interpretaciones parciales.
+## Tratamiento de los códigos anteriores
 
-## Próximos pasos de evaluación
+- 1321 y 3231 se conservan como antecedentes documentales.
+- No se declaran vigentes ni validados sin cotejo con el código literal confirmado.
+- Cada cifra identifica uno de los tres componentes; cada aparición debe producir una aplicación y un registro individual.
+- No se asigna significado adicional a una repetición sin seguir el código y las instrucciones fuente.
 
-1. Incorporar y verificar los tres textos originales.
-2. Definir de forma explícita qué operación representa cada posición de 1321 y 3231.
-3. Dibujar el flujo de cada secuencia e indicar dónde interviene DF-IMIA.
-4. Preparar tareas de prueba equivalentes y criterios definidos antes de ejecutarlas.
-5. Registrar aciertos, errores, omisiones, cumplimiento de instrucciones, tiempo y necesidad de corrección.
-6. Repetir las pruebas y documentar resultados negativos y limitaciones.
-7. Mantener ambas variantes en experimentación hasta contar con evidencia suficiente y aprobación expresa.
+## Protocolo para registrar el código confirmado
 
-## Regla de interpretación
+1. Copiar el literal exacto de la confirmación del propietario.
+2. Registrar fecha y referencia de procedencia.
+3. Desglosar cada cifra en su orden, sin omitir repeticiones.
+4. Para cada aparición, generar la guía a partir del texto íntegro del componente correspondiente.
+5. Registrar entrada, acción, evidencia, resultado, errores y correcciones.
+6. Repetir la auditoría tras corregir.
+7. No declarar validación experimental hasta conservar resultados reproducibles.
 
-Este documento registra el estado conocido del diseño. Las definiciones pendientes deben resolverse con los textos fuente y con decisiones explícitas del propietario; no se completarán por conjetura.
+La autenticidad literal de las dos leyes y la validación experimental del código son comprobaciones diferentes.
