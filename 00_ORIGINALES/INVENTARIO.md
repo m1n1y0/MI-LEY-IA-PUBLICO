@@ -1,16 +1,20 @@
 # Inventario de originales y componentes
 
-**Estado:** clasificación del sistema confirmada por el propietario el 31-10-2026. Los textos fuente íntegros aún deben recuperarse e incorporarse literalmente.
+**Estado:** clasificación confirmada por el propietario el 31-10-2026. Los textos fuente íntegros aún deben recuperarse e incorporarse literalmente.
 
 | Número | Identificador | Nombre | Naturaleza | Estado documental |
 |---|---|---|---|---|
-| 1 | L1 | MI LEY | Ley | El propietario confirma que estaba completa el 27-10-2026; texto literal pendiente de recuperación e incorporación. |
+| 1 | L1 | MI LEY | Ley | Estaba completa el 27-10-2026, según el propietario; texto literal pendiente de recuperación e incorporación. |
 | 2 | L2 | LEY DE EFICACIA, RIGOR Y RESOLUCIÓN | Ley | Fue aportada y trabajada; consta referencia a 13 apartados y «PRINCIPIO SUPREMO». Texto literal pendiente de recuperación e incorporación. |
-| 3 | DF-IMIA | Diagrama de Flujo Idioma Máquina IA | Componente operativo de aplicación y comprobación; no es una tercera ley | Formulación compacta documentada en `../03_SISTEMA/DF-IMIA.md`. |
+| 3 | DF-IMIA | Diagrama de Flujo Idioma Máquina IA | Componente operativo de aplicación y comprobación; no es una tercera ley | Formulación compacta documentada en `../experimentos/DF-IMIA.md`. |
+
+## Código de aplicación
+
+El propietario comunicó que el código numérico quedó confirmado el 31-10-2026. El literal exacto no se reproduce todavía en este inventario; debe incorporarse desde la confirmación original. No inferirlo a partir de numeraciones o propuestas anteriores.
 
 ## Exclusiones
 
-- No existe una tercera ley vigente en esta arquitectura. La anterior referencia incompleta a «Ley 3» se retira del inventario.
+- No hay una tercera ley activa: el componente número 3 es DF-IMIA.
 - El **prompt escueto** fue una prueba puntual y queda excluido del sistema definitivo. No debe registrarse como ley, componente ni documento vigente.
 
 ## Criterio de preservación
