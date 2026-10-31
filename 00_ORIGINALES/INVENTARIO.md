@@ -12,11 +12,6 @@
 
 El propietario comunicó que el código numérico quedó confirmado el 31-10-2026. El literal exacto no se reproduce todavía en este inventario; debe incorporarse desde la confirmación original. No inferirlo a partir de numeraciones o propuestas anteriores.
 
-## Exclusiones
-
-- No hay una tercera ley activa: el componente número 3 es DF-IMIA.
-- El **prompt escueto** fue una prueba puntual y queda excluido del sistema definitivo. No debe registrarse como ley, componente ni documento vigente.
-
 ## Criterio de preservación
 
 - No reconstruir los textos literales a partir de resúmenes o recuerdos.
