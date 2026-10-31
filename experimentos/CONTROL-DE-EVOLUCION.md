@@ -10,8 +10,6 @@ Este documento separa la arquitectura confirmada, los antecedentes y los resulta
 
 Los números identifican componentes. El propietario comunicó que el código numérico de aplicación quedó confirmado el 31-10-2026. Su literal exacto debe recuperarse de la confirmación y copiarse sin inferencias. Cada cifra del código activa el componente correspondiente; cada aparición debe ejecutarse y registrarse por separado.
 
-El prompt escueto fue una prueba puntual y queda excluido del sistema definitivo.
-
 ## Ramas
 
 - `main`: referencia estable.
