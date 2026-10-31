@@ -12,8 +12,6 @@ Los números identifican los tres componentes. La secuencia de aplicación debe 
 
 **Control de exactitud:** el propietario comunicó que el código de secuencia fue confirmado el 31-10-2026. El literal exacto del código no está reproducido en este registro; no se sustituye por 123, 1321, 3231 ni otra conjetura. Las referencias antiguas 1321 y 3231 se conservan como antecedentes hasta cotejarlas con la confirmación literal.
 
-El **prompt escueto queda excluido**: fue una prueba puntual, no es ley, componente vigente ni documento del sistema definitivo.
-
 ## Organización
 
 - `00_ORIGINALES/`: textos fuente íntegros de las dos leyes.
@@ -38,7 +36,6 @@ El **prompt escueto queda excluido**: fue una prueba puntual, no es ley, compone
 - La Ley 2 fue aportada y trabajada; consta referencia a 13 apartados y un «PRINCIPIO SUPREMO». Falta recuperar e incorporar el texto literal sin alteraciones.
 - DF-IMIA está identificado como componente 3 y su formulación compacta está documentada en `experimentos/DF-IMIA.md`.
 - El propietario afirma que el código numérico de aplicación quedó confirmado el 31-10-2026; el literal debe incorporarse exactamente, sin inferirlo.
-- El prompt escueto está excluido.
 - No hay una Ley 3 activa: el número 3 corresponde a DF-IMIA.
 - Los SHA-256 de los originales legales siguen pendientes porque los textos fuente no están archivados.
 - La rama `experimentos` existe. La protección técnica de ramas debe comprobarse en la configuración real de GitHub; documentarla no la activa.
