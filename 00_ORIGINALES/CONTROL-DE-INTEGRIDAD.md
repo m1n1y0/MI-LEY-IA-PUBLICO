@@ -1,6 +1,6 @@
 # Control de integridad de los originales
 
-**Estado general:** clasificación actualizada el 31-10-2026. Los textos originales se trabajaron en conversaciones anteriores, pero sus copias literales aún no están incorporadas aquí. No se deben reconstruir.
+**Estado general:** clasificación actualizada el 31-10-2026. Las dos leyes se trabajaron en conversaciones anteriores, pero sus copias literales aún no están incorporadas aquí. No reconstruirlas.
 
 ## Procedimiento al recuperar cada original
 
@@ -20,9 +20,9 @@
 | 1 | MI LEY | El propietario confirma que estaba completa el 27-10-2026. Falta recuperar el texto íntegro. | Pendiente | Pendiente |
 | 2 | LEY DE EFICACIA, RIGOR Y RESOLUCIÓN | Fue aportada y trabajada; consta referencia a 13 apartados y «PRINCIPIO SUPREMO». Falta recuperar el texto íntegro. | Pendiente | Pendiente |
 
-## DF-IMIA
+## DF-IMIA y código numérico
 
-DF-IMIA es el componente operativo número 3, no un original legal. Su formulación documentada se conserva en `../03_SISTEMA/DF-IMIA.md`. Puede calcularse la huella del archivo actual para control de versiones, pero esa huella no certifica por sí sola la autoría ni la autenticidad de las leyes.
+DF-IMIA es el componente operativo número 3, no un original legal. Su formulación documentada se conserva en `../experimentos/DF-IMIA.md`. La confirmación del código numérico de aplicación se atribuye al propietario con fecha 31-10-2026; el literal exacto debe transcribirse desde su confirmación original, sin deducirlo de códigos anteriores.
 
 ## Advertencia
 
