@@ -1,6 +1,8 @@
 # DF-IMIA — Diagrama de Flujo Idioma Máquina IA
 
-**Estado:** marco operativo documentado; pendiente de validación experimental sistemática.  
+**Número:** 3.  
+**Naturaleza:** componente operativo de aplicación y comprobación; no es una tercera ley.  
+**Estado:** formulación compacta documentada; pendiente de validación experimental sistemática.  
 **Procedencia:** formulación compacta confirmada por el propietario del proyecto en conversación.
 
 ```text
@@ -24,7 +26,16 @@ ELIMINAR_RELLENO
 
 ## Función dentro del proyecto
 
-DF-IMIA expresa una secuencia operativa compacta para aplicar las leyes durante el trabajo de una IA. No sustituye los textos íntegros de las leyes ni debe presentarse como transcripción literal de ellas.
+DF-IMIA es el tercer componente de la arquitectura numerada:
+1. MI LEY.
+2. LEY DE EFICACIA, RIGOR Y RESOLUCIÓN.
+3. DF-IMIA.
+
+Expresa una secuencia operativa compacta para aplicar las leyes durante el trabajo de una IA. No sustituye los textos íntegros de las leyes ni debe presentarse como transcripción literal de ellas.
+
+## Relación con el código de aplicación
+
+El propietario comunicó que el código numérico de aplicación quedó confirmado el 31-10-2026. El literal exacto debe registrarse desde la confirmación original. Cada vez que el código señale el número 3, se aplica este componente y se registra su ejecución. No inferir el código a partir de propuestas históricas.
 
 ## Criterios de aplicación
 
