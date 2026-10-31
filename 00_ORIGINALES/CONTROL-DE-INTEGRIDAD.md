@@ -1,22 +1,31 @@
 # Control de integridad de los originales
 
-**Estado general:** pendiente. No se han incorporado los tres textos fuente; por tanto, todavía no es posible calcular ni verificar sus huellas digitales.
+**Estado general:** clasificación actualizada el 31-10-2026. Los textos originales se trabajaron en conversaciones anteriores, pero sus copias literales aún no están incorporadas aquí. No se deben reconstruir.
 
-## Procedimiento al incorporar cada original
+## Procedimiento al recuperar cada original
 
-1. Obtener el archivo o texto fuente completo.
-2. Registrar su procedencia, fecha de recepción y formato.
-3. Conservar una copia sin modificaciones.
-4. Calcular su huella SHA-256 sobre el archivo original.
-5. Registrar nombre, tamaño y SHA-256 en este documento.
-6. Verificar que la copia archivada produce la misma huella.
+1. Recuperar el mensaje o archivo fuente completo.
+2. Registrar conversación o procedencia, fecha, formato y alcance.
+3. Copiar el texto sin corregirlo ni normalizarlo.
+4. Comparar carácter por carácter la copia archivada con la fuente recuperada.
+5. Calcular SHA-256 sobre los bytes exactos del archivo fuente conservado.
+6. Registrar nombre, tamaño, codificación y SHA-256.
+7. Volver a calcular SHA-256 y comprobar coincidencia.
+8. Mantener cualquier versión corregida o derivada en una ruta separada.
 
-## Registro
+## Registro de originales
 
-| Original | Archivo fuente | SHA-256 | Verificación |
-|---|---|---|---|
-| MI LEY | Pendiente | Pendiente | No realizada |
-| Ley 2 | Pendiente | Pendiente | No realizada |
-| Ley 3 | Pendiente | Pendiente | No realizada |
+| Número | Original | Procedencia conocida | SHA-256 de la fuente | Cotejo literal |
+|---|---|---|---|---|
+| 1 | MI LEY | El propietario confirma que estaba completa el 27-10-2026. Falta recuperar el texto íntegro. | Pendiente | Pendiente |
+| 2 | LEY DE EFICACIA, RIGOR Y RESOLUCIÓN | Fue aportada y trabajada; consta referencia a 13 apartados y «PRINCIPIO SUPREMO». Falta recuperar el texto íntegro. | Pendiente | Pendiente |
 
-**Importante:** la existencia de esta plantilla no significa que los originales estén preservados ni que su integridad haya sido comprobada.
+## DF-IMIA
+
+DF-IMIA es el componente operativo número 3, no un original legal. Su formulación documentada se conserva en `../03_SISTEMA/DF-IMIA.md`. Puede calcularse la huella del archivo actual para control de versiones, pero esa huella no certifica por sí sola la autoría ni la autenticidad de las leyes.
+
+## Advertencia
+
+El SHA de objeto GitHub (Git blob SHA) no debe etiquetarse como SHA-256 del archivo: son identificadores distintos. La huella SHA-256 debe calcularse sobre los bytes exactos del archivo conservado.
+
+No declarar verificados los originales hasta completar el cotejo literal y la comprobación de sus huellas.
