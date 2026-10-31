@@ -19,7 +19,6 @@ El propietario comunicó que el código numérico de aplicación quedó confirma
 - Se conservan resultados negativos y errores.
 - No se declara superioridad sin pruebas comparables.
 - Las pruebas simuladas se identifican como simuladas; no se presentan como evidencia empírica.
-- El prompt escueto fue una prueba puntual y queda fuera del sistema definitivo; no se registra como componente.
 
 ## Pendientes de validación
 
