@@ -15,9 +15,9 @@ El prompt escueto fue una prueba puntual y queda excluido del sistema definitivo
 ## Ramas
 
 - `main`: referencia estable.
-- `experimentos`: espacio de trabajo experimental. Comprobar que exista en GitHub antes de afirmar que está disponible.
+- `experimentos`: rama de trabajo creada el 31-10-2026 desde `main`.
 
-La protección técnica de ramas debe verificarse en la configuración real; la documentación no la activa por sí sola.
+La rama experimental existe. La protección técnica de ramas debe verificarse en la configuración real; la documentación no la activa por sí sola.
 
 ## Registro de cada evolución
 
